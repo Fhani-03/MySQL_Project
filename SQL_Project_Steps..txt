@@ -1,0 +1,30 @@
+SQL Project on Library Database Analysis:
+=========================================
+Step 1: Collect all the datasets required for the project.
+Step 2: Understand the data model given in the diagram to build the relationships between tables.
+Step 3: Create a database for the project.
+	+ While giving auto increment constraint to a column, give it to only integer columns
+Step 4: Challenges faced while creating the tables.
+	+ Check the datatypes of the columns in the data given and chose the one which best fits.
+	+ Make sure that the column names are matching while importing the data into MySQL.
+	+ If the data type in excel file is not suitable with the SQL datatype format then make the necessary changes in the data accordingly.
+
+`--Desc gave by chat_gpt for sql project--`
+Developed a robust library management system using SQL to efficiently manage books, borrowers, publishers, and library branches. Designed and implemented database tables with appropriate relationships and constraints, including foreign key constraints with cascading updates and deletions. Created queries to handle various tasks such as tracking book loans, retrieving borrower details, and managing inventory across branches. Highlights include complex SQL queries to retrieve data such as branch-specific book copies, borrower loan history, and author-based book information.
+
+
+
+churn analysis sql projects(search in google) -> Customer Retention Strategies.
+
+
+
+
+
+
+
+
+
+
+
+
+
